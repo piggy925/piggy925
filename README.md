@@ -1,4 +1,5 @@
-<img align="center" src="https://cdn.jsdelivr.net/gh/piggy925/BlogAssets@main/uPic/readme-header.png" />
+
+<p align="center"><a href="https://caowei.xyz"><img width="60%" src="https://cdn.jsdelivr.net/gh/piggy925/BlogAssets@main/uPic/readme-header.png" /></a></p>
 
 ### Hi there <img src="https://codingnbb.com/images/wavehand.gif" width="25px">
 
