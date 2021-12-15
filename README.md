@@ -16,7 +16,7 @@ I'm a self-taught passionate BackEnd developer from China 🇨🇳
 **Languages and Tools:**
 
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=piggy925&show_icons=true&icon_color=dc6b7d&text_color=718096&bg_color=00000000&hide_title=false&hide=contribs,issues&hide_border=true" /> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piggy925&card_width=445px&text_color=718096&layout=compact&hide_border=true" /> |
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=piggy925&show_icons=true&icon_color=dc6b7d&text_color=718096&bg_color=00000000&hide_title=false&hide=contribs,issues&hide_border=true" /> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piggy925&text_color=718096&layout=compact&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
