@@ -1,4 +1,5 @@
-<img align="center" src="https://cdn.jsdelivr.net/gh/piggy925/BlogAssets@main/uPic/readme-header.png" width=500px />
+<img align="center" src="https://cdn.jsdelivr.net/gh/piggy925/BlogAssets@main/uPic/readme-header.png" />
+
 ### Hi there <img src="https://codingnbb.com/images/wavehand.gif" width="25px">
 
 I'm a self-taught passionate BackEnd developer from China 🇨🇳
