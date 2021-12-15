@@ -1,25 +1,22 @@
+<img align="center" src="https://cdn.jsdelivr.net/gh/piggy925/BlogAssets@main/uPic/readme-header.png"/>
+
 ### Hi there <img src="https://codingnbb.com/images/wavehand.gif" width="25px">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=piggy925&layout=compact&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide=contribs,issues" />
+I'm a self-taught passionate BackEnd developer from China 🇨🇳
 
-<!--
-**piggy925/piggy925** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Full
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+**About me:**
 - :orange_book: Focusing on Java & Spring
 - :hammer: Creator of web applications
 - :meat_on_bone: Meat lover
 - :camera: Amateur photographer
 - :pencil2: Blog: https://www.caowei.xyz/
+- :email: Communicate with me <a href="mailto:piggy925@163.com">here</a>
+
+**Languages and Tools:**
+
+
+| <img align="right" src="https://github-readme-stats.vercel.app/api?username=piggy925&show_icons=true&icon_color=dc6b7d&text_color=718096&bg_color=00000000&hide_title=false&hide=contribs,issues&hide_border=true" /> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piggy925&card_width=445px&layout=compact&hide_border=true" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
 
