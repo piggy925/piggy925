@@ -33,10 +33,8 @@ I'm a self-taught passionate Back-End developer from China 🇨🇳
 **Things I'm learning:**
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="25" height="25" />
 </p>
 
 
