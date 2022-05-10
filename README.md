@@ -1,5 +1,5 @@
 
-<p align="center"><a href="https://caowei.xyz" target="_Blank"><img width="50%" src="https://cdn.jsdelivr.net/gh/piggy925/BlogAssets@main/uPic/readme-header.png" /></a></p>
+<p align="center"><a href="https://caowei.xyz" target="_Blank"><img width="100%" src="https://cdn.jsdelivr.net/gh/piggy925/BlogAssets@main/uPic/readme-header.png" /></a></p>
 
 ### Hi there <img src="https://codingnbb.com/images/wavehand.gif" width="25px"> 
 
