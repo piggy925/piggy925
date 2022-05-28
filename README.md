@@ -10,8 +10,8 @@ I'm a self-taught passionate Back-End developer from China 🇨🇳
 - :hammer: Creator of web applications
 - :meat_on_bone: Meat lover
 - :camera: Amateur photographer
-- :pencil2: Blog: [MuMu’s Blog](https://www.caowei.xyz/)
-- :email: Communicate with me <a href="mailto:piggy925@163.com">here</a>
+- :pencil2: Blog: [MuMu’s Den](https://www.caowei.xyz/)
+- :email: Contact: 👉&nbsp;<a href="mailto:piggy925@163.com">Click here</a>
 
 **Things I code with:**
 
