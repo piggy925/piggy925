@@ -3,6 +3,9 @@
 
 ### Hi there <img src="https://codingnbb.com/images/wavehand.gif" width="25px"> 
 
+
+![](https://codingnbb.com/images/wavehand.gif)
+
 I'm a self-taught passionate Back-End developer from China 🇨🇳
 
 **About me:**
