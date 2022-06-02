@@ -37,8 +37,8 @@ I'm a self-taught passionate Back-End developer from China 🇨🇳
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 </p>
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=piggy925&include_all_commits=true&show_icons=true&icon_color=dc6b7d&text_color=718096&bg_color=00000000&hide_title=false&hide=contribs,issues&hide_border=true" /> | <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piggy925&text_color=718096&layout=compact&hide_border=true&hide=freemarker" /> |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+![Stats Overview](https://raw.githubusercontent.com/piggy925/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/piggy925/github-stats-transparent/output/generated/languages.svg)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/piggy925/piggy925/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/piggy925/piggy925/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
