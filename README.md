@@ -40,6 +40,4 @@ I'm a self-taught passionate Back-End developer from China 🇨🇳
 ![Stats Overview](https://raw.githubusercontent.com/piggy925/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/piggy925/github-stats-transparent/output/generated/languages.svg)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/piggy925/piggy925/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/piggy925/piggy925/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 ![Profile views](https://gpvc.arturio.dev/piggy925)
