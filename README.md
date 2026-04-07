@@ -1,7 +1,4 @@
-
-<p align="center"><a href="https://caowei.xyz" target="_Blank"><img width="80%" src="https://cdn.jsdelivr.net/gh/piggy925/BlogAssets@main/uPic/readme-header.png" /></a></p>
-
-### Hi there <img src="https://camo.githubusercontent.com/6cfbbc4115b770385288c4f73f392c0c9c9a60de23820daf3052b3c934ccc361/68747470733a2f2f636f64696e676e62622e636f6d2f696d616765732f7761766568616e642e676966" width="25px" /> 
+### Hi there 
 
 I'm a self-taught passionate Back-End developer from China 🇨🇳
 
@@ -10,7 +7,6 @@ I'm a self-taught passionate Back-End developer from China 🇨🇳
 - :hammer: Creator of web applications
 - :meat_on_bone: Meat lover
 - :camera: Amateur photographer
-- :pencil2: Blog: [MuMu’s Den](https://www.caowei.xyz/)
 - :email: Contact: 👉&nbsp;<a href="mailto:piggy925@163.com">Click here</a>
 
 **Things I code with:**
